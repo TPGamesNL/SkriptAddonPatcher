@@ -3,6 +3,8 @@ This tool can be used to update addons after the change of https://github.com/Sk
 
 For more info, see https://github.com/SkriptLang/Skript/issues/4012.
 
+**This is not a plugin.** For the plugin version, see https://github.com/TPGamesNL/RuntimeSkriptAddonPatcher
+
 ## How to use
 Step 1: download SkriptAddonPatcher.jar from [the releases page](https://github.com/TPGamesNL/SkriptAddonPatcher/releases).
 
